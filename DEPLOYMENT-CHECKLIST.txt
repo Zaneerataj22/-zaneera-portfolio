@@ -1,0 +1,54 @@
+✅ GITHUB PAGES DEPLOYMENT CHECKLIST
+=====================================
+
+BEFORE UPLOADING:
+☐ All files are ready in one folder
+☐ index.html is the main file
+☐ Images are included (Task & Project.png, ERP.png)
+☐ Demo pages are included (task-management-demo.html, erp-system-demo.html)
+
+FILES TO UPLOAD:
+☐ index.html
+☐ style.css
+☐ script.js
+☐ task-management-demo.html
+☐ erp-system-demo.html
+☐ Task & Project.png
+☐ ERP.png
+☐ README.md
+☐ .gitignore
+
+GITHUB STEPS:
+☐ 1. Create GitHub account at github.com
+☐ 2. Create new repository: "zaneera-portfolio"
+☐ 3. Make it PUBLIC (important!)
+☐ 4. Upload all files
+☐ 5. Go to Settings → Pages
+☐ 6. Select "main" branch
+☐ 7. Click Save
+☐ 8. Wait 2-3 minutes
+☐ 9. Get your link: https://yourusername.github.io/zaneera-portfolio
+
+AFTER DEPLOYMENT:
+☐ Test the live link
+☐ Check all pages work (Home, About, Skills, Projects, etc.)
+☐ Test "View Live Demo" buttons
+☐ Test Dark/Light mode
+☐ Test on mobile phone
+☐ Add link to resume
+☐ Add link to LinkedIn profile
+
+YOUR LIVE LINK WILL BE:
+https://[YOUR-GITHUB-USERNAME].github.io/zaneera-portfolio/
+
+Example: If username is "zaneerataj"
+Link: https://zaneerataj.github.io/zaneera-portfolio/
+
+SHARE YOUR PORTFOLIO:
+✉️ Email: Include in job applications
+💼 LinkedIn: Add to "Featured" section
+📄 Resume: Add under "Portfolio" or "Projects"
+🔗 Direct share: Send link to recruiters
+
+=====================================
+Need help? Read GITHUB-DEPLOYMENT-GUIDE.md
