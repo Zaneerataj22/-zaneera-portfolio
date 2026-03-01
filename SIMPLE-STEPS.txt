@@ -1,0 +1,32 @@
+🎯 SUPER SIMPLE STEPS - DO THIS NOW!
+=====================================
+
+STEP 1: CREATE REPOSITORY ON GITHUB
+------------------------------------
+1. Click the "+" icon (top right corner of GitHub page)
+2. Click "New repository"
+3. Repository name: zaneera-portfolio
+4. Description: Professional Portfolio Website
+5. Select: PUBLIC (important!)
+6. DO NOT check "Add README" 
+7. Click "Create repository"
+
+STEP 2: COPY THE COMMANDS
+--------------------------
+After creating repository, GitHub will show you commands.
+Look for section: "…or push an existing repository from the command line"
+
+You'll see something like:
+git remote add origin https://github.com/Zaneerataj22/zaneera-portfolio.git
+git branch -M main
+git push -u origin main
+
+STEP 3: TELL ME "REPOSITORY CREATED"
+-------------------------------------
+Just tell me "done" or "created" 
+I'll run the push commands for you!
+
+=====================================
+YOUR LIVE LINK WILL BE:
+https://zaneerataj22.github.io/zaneera-portfolio/
+=====================================
